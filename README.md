@@ -1,7 +1,7 @@
 # Recommeder Project
 Group Members: Yerline Herrera, Faustina Nyaung, and Jonathan Huang
 
-Summary:
+## Summary:
 Our group chose to study and explore Skill Estimation to estimate players’ Starcraft II
 skill level and predict game outcomes between two players. To achieve that, we used pyGM to
 model skill as a discrete variable based on win/loss data. We assumed that higher skilled players

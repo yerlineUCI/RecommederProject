@@ -18,5 +18,5 @@ study this problem because we noticed it takes a really long time for our model 
 dataset and wanted to see if we could minimize this problem because we would ideally not like
 to spend a lot of time running estimation code on big data.
 
-Please refer to our pdf report for our final findings.
-Current UCI students, please do not copy our project as that is considered plagiarism.
+> Please refer to our pdf report for our final findings.
+> Current UCI students, please do not copy our project as that is considered plagiarism.
